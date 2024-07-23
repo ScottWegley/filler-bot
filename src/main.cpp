@@ -1,4 +1,6 @@
 #include <iostream>
+#include "PlayerManager.h"
+
 int main()
 {
     std::cout << "Game Pigeon Filler Bot\n";
