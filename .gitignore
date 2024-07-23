@@ -1,0 +1,92 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+*.ko
+*.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Dependency directories
+*.d
+
+# Build files
+*.ilk
+*.map
+*.exp
+
+# Backup files
+*~
+*.swp
+
+# Other files
+*.csv
+*.dat
+*.log
+*.tmp
+*.bak
+*.tgz
+*.gz
+*.bzip
+*.zip
+*.rar
+*.tar
+*.7z
+
+# Directories
+/bin/
+/obj/
+/build/
+/.vs/
+/.vscode/
+*.code-workspace
+
+# Auto-generated files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Project files
+*.sdf
+*.opensdf
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
