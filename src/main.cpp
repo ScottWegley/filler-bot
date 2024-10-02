@@ -27,7 +27,7 @@ int main()
         {
         case 1:
             clear(); // Clear the screen
-            printw("Option 1 selected.\n");
+            printw("Please select the P1 Player:\n");
             // Implement option 1 functionality here
             break;
         case 2:
